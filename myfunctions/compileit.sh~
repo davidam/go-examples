@@ -1,0 +1,5 @@
+#!/bin/sh
+
+go mod init myfunctions
+go mod tidy
+go run .
